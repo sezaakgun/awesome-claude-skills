@@ -217,6 +217,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 - [file-deletion](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/file-deletion) - Secure file deletion and data sanitization methods.
 - [metadata-extraction](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/metadata-extraction) - Extract and analyze file metadata for forensic purposes.
 - [threat-hunting-with-sigma-rules](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) - Use Sigma detection rules to hunt for threats and analyze security events.
+- [yolonot](https://github.com/sezaakgun/yolonot) - Command guardrails and slash skill for Claude Code and 23 other coding agents: combines git-tracked `.yolonot` rules, a sub-2us Go Bash AST parser for read-only commands, script-content inspection, and local or cloud LLM judges. *By [@sezaakgun](https://github.com/sezaakgun)*
 
 ### Assistive Technology
 
